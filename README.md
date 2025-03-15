@@ -1,4 +1,4 @@
-# README:Geospacial Data Visualisation with Hover Fuctionality
+# Geospacial Data Visualisation with Hover Fuctionality
 
 Project Description 
 
